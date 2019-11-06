@@ -1,0 +1,49 @@
+@font-face {
+    font-family: "Asap-Regular";
+    src: url(fonts/Asap-Regular.ttf);
+}
+
+@font-face {
+    font-family: "LucidaSans-Italic";
+    src: url(fonts/Lucida-Sans-Italic.ttf);
+}
+
+@font-face {
+    font-family: "Open-Sans";
+    src: url(fonts/Open-Sans.ttf);
+}
+
+@font-face {
+    font-family: "PTSans-NarrowBold";
+    src: url(fonts/PTSans-Narrow-Bold.ttf);
+}
+
+@font-face {
+    font-family: "PTSans-Regular";
+    src: url(fonts/PTSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: "SegoeUI";
+    src: url(fonts/SegoeUI.ttf);
+}
+
+@font-face {
+    font-family: "SegoeWP";
+    src: url(fonts/SegoeWP.ttf);
+}
+
+@font-face {
+    font-family: "SegoeUI-Bold";
+    src: url(fonts/SegoeUI-Bold.ttf);
+}
+
+@font-face {
+    font-family: "SegoeUI-Light";
+    src: url(fonts/SegoeUI-Light.ttf);
+}
+
+@font-face {
+    font-family: "SegoeWP-Light";
+    src: url(fonts/SegoeWP-Light.ttf);
+}
